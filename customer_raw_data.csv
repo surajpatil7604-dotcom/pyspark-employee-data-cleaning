@@ -1,0 +1,32 @@
+customer_id,first_name,last_name,email,phone,city,state,country,age,gender,salary,registration_date,is_active
+1001,Rahul,Sharma,rahul.sharma@gmail.com,9876543210,Pune,Maharashtra,India,28,Male,45000,2024-01-15,Yes
+1002,Priya,Patil,priya.patil@gmail.com,9876543211,Mumbai,Maharashtra,India,32,Female,65000,2024-02-20,Yes
+1003,Amit,Verma,amit.verma@gmail.com,9876543212,Nashik,Maharashtra,India,25,Male,38000,2024-03-10,Yes
+1004,Neha,Joshi,neha.joshi@gmail.com,9876543213,Pune,Maharashtra,India,29,Female,52000,2024-03-25,No
+1005,Rohan,Deshmukh,rohan.d@gmail.com,9876543214,Nagpur,Maharashtra,India,-35,Male,72000,2024-04-05,Yes
+1006,Anjali,Kulkarni,anjali.k@gmail.com,9876543215,Mumbai,Maharashtra,India,27,Female,48000,2024-04-18,Yes
+1007,Vikas,Shinde,vikas.shinde@gmail.com,9876543216,Solapur,Maharashtra,India,31,Male,55000,2024-05-12,Yes
+1008,Pooja,More,pooja.more@gmail.com,9876543217,Pune,Maharashtra,India,26,Female,42000,2024-05-30,No
+1009,Sanket,Jadhav,sanket.j@gmail.com,9876543218,Kolhapur,Maharashtra,India,0,Male,58000,2024-06-15,Yes
+1010, Sneha, Pawar, sneha.pawar@gmail.com,9876543219,Mumbai,Maharashtra,India,24,Female,40000,2024-06-28,Yes
+1011,Akash,Gaikwad,akash.g@gmail.com,9876543220,Pune,Maharashtra,India,33,Male,68000,2024-07-10,Yes
+1012,Meera,Chavan,meera.c@,9876543221,Nashik,Maharashtra,India,29,Female,51000,2024-07-22,Yes
+1013,Karan,Thakur,karan.t@gmail.com,9876543222,Nagpur,Maharashtra,India,38,Male,85000,2024-08-01,No
+1014,Divya,Shah,divya.shah@gmail.com,9.87654E+11,Mumbai,Maharashtra,India,27,Female,47000,2024-08-15,Yes
+1015,Manish,Kadam,manish.k@gmail.com,9876543224,Solapur,Maharashtra,India,34,Male,62000,2024-09-05,Yes
+1016,Shreya,Desai,shreya.d@gmail.com,9876543225,Pune,Maharashtra,India,28,Female,56000,2024-09-18,Yes
+1017,Pratik,Bhosale,pratik.b@gmail.com,9876543226,Kolhapur,Maharashtra,India,22,Male,32000,2024-10-02,Yes
+1018,Kavita,Salunkhe,kavita.s@gmail.com,9876543227,Nashik,Maharashtra,India,36,Female,75000,2024-10-20,No
+1019,Nikhil, Pawar,nikhil.p@,9876543228,Mumbai,Maharashtra,India,29,Male,59000,2024-11-05,Yes
+1020,Aarti,null,aarti.more@gmail.com,9876543229,Pune,Maharashtra,India,31,Female,61000,2024-11-19,Yes
+1021,Suresh,Patil,suresh.p@gmail.com,9876543230,Nagpur,Maharashtra,India,42,Male,95000,2024-12-01,Yes
+1022,Komal,Shinde,komal.s@gmail.com,9876543231,Mumbai,Maharashtra,India,26,Female,44000,2024-12-15,Yes
+1023,Raj,Joshi,raj.j@gmail.com,9876543232,Solapur,Maharashtra,India,30,Male,57000,2025-01-05,Yes
+1024,Swati,Kulkarni,swati.k@gmail.com,9876543233,Pune,Maharashtra,India,33,Female,67000,2025-01-20,No
+1025,Harsh,Verma,harsh.v@gmail.com,9876543234,Nashik,Maharashtra,India,23,Male,35000,2025-02-02,Yes
+1026,Tejas,Shah,tejas.shah@gmail.com,9876543235,Mumbai,Maharashtra,India,28,Male,53000,2025-02-18,Yes
+1027,null,Mane,missing.email,9876543236,Pune,Maharashtra,India,29,Female,49000,2025-03-01,Yes
+1028,Omkar,Deshmukh,omkar.d@gmail.com,9876543237,Nagpur,Maharashtra,India,20,Male,46000,2025-03-15,Yes
+1029,Isha,Patil,isha.p@gmail.com,9876543238,Solapur,Maharashtra,India,27,Female,-1000,2025-04-01,null
+1030,Arjun,Shinde,arjun.s@gmail.com,null,Pune,Maharashtra,India,31,Male,64000,2025-04-15,Yes
+1028,Omkar,Deshmukh,omkar.d@gmail.com,9876543237,Nagpur,Maharashtra,India,20,Male,46000,2025-03-15,Yes

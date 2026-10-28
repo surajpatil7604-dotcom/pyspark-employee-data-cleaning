@@ -1,0 +1,27 @@
+﻿customer_id,first_name,last_name,email,phone,city,state,country,age,gender,salary,registration_date,is_active
+1001,Rahul,Sharma,rahul.sharma@gmail.com,9876564123,Pune,Mharastra,India,23,male,90000,2026-02-03,Yes
+1002,Priya,Patil,priya.patil@gmail.com,9876564124,Mumbai,Mharastra,India,25,femal,80000,2026-04-21,No 
+1003,Amit,Verma,amit.verma@gmail.com,9876564125,Nashik,Mharastra,India,27,male,75000,2026-05-24,yes
+1004,Neha,Joshi,neha.joshi@gmail.com,9876564126,Latur,Mharastra,India,35,femal,60000,2026-05-23,No 
+1005,Rohan,Deshmukh,rohan.d@gmail.com,9876564127,Pune,Mharastra,India,30,male,85000,2026-04-22,Yes
+1006,Anjali,Kulkarni,anjali.k@gmail.com,9876564128,Mumbai,Mharastra,India,45,femal,64000,2026-07-01,yes
+1007,Vikas,Shinde,vikas.shinde@gmail.com,9876564129,Nashik,Mharastra,India,25,male,75000,2026-07-22,yes
+1008,Pooja,More,pooja.more@gmail.com,9876564130,Latur,Mharastra,India,23,femal,100000,2026-08-01,yes
+1009,Sanket,Jadhav,sanket.j@gmail.com,9876564131,Pune,Mharastra,India,25,male,95000,2026-08-15,No 
+1010, Sneha, Pawar, sneha.pawar@gmail.com,9876564132,     Mumbai,Mharastra,India,27,femal,32000,2026-02-03,No 
+1011,Akash,Gaikwad,akash.g@gmail.com,9876564133,Nashik,Mharastra,India,35,male,36000,2026-04-21,yes
+1012,Meera,Chavan,meera.c@,9876564134,Latur,Mharastra,India,30,femal,91000,2026-05-24,Yes
+1013,Karan,Thakur,karan.t@gmail.com,9876564135,dhule,Karntaka,India,45,male,92000,2026-05-23,yes
+1014,Divya,Shah,divya.shah@gmail.com,9876564136,nager,Karntaka,India,25,femal,61000,2026-04-22,No 
+1015,Manish,Kadam,manish.k@gmail.com,9876564137,,Karntaka,India,31,Male,0,2026-07-01,yes
+1016,Shreya,Desai,shreya.d@gmail.com,9876564138,Mumbai,Karntaka,India,,male,89000,2026-07-22,yes
+1017,Pratik,Bhosale,pratik.b@gmail.com,9876564139,Nashik,Karntaka,India,30,male,88000,2026-08-01,yes
+1018,Kavita,Salunkhe,kavita.s@gmail.com,9876564140,Latur,Mharastra,India,36,Femal,32000,2026-08-15,yes
+1019,Nikhil, Pawar,nikhil.p@,9876564141,dhule,Mharastra,India,34,Femal,36000,2026-02-03,yes
+1020,Aarti,,aarti.more@gmail.com,9876564142,nager,Mharastra,India,,femal,91000,2026-13-35,yes
+1021,Suresh,Patil,suresh.p@gmail.com,,pune,Mharastra,India,35,male,92000,2026-05-24,No 
+1022,Komal,Shinde,komal.s@gmail.com,9876564144,CNS,Mharastra,India,30,femal,61000,2026-05-23,No 
+1023,Raj,Joshi,raj.j@gmail.com,9876564145,nager,Mharastra,India,45,male,71000,2026-04-22,yes
+1024,Swati,Kulkarni,swati.k@gmail.com,9876564146,nashik,Mharastra,India,25,femal,89000,2026-07-01,yes
+1025,Harsh,Verma,harsh.v@yahoo.com,9876564147,dhule,Mharastra,India,31,Male,-45000,2026-07-22,yes
+1018,Kavita,Salunkhe,kavita.s@gmail.com,9876564140,Latur,Mharastra,India,36,Femal,32000,2026-08-15,yes
